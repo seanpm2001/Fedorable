@@ -11,7 +11,7 @@
 
 ## Creation
 
-Created by [`@seanpm2001`](https://github.com/seanpm2001) on 2023, Monday, January 17th. Published on 2023, Tuesday, January 17th at 12:22 pm PST.
+Created by [`@seanpm2001`](https://github.com/seanpm2001) on 2023, Monday, January 16th at around 11:30 pm PST. Published on 2023, Tuesday, January 17th at 12:22 pm PST.
 
 The word came to me at random.
 
@@ -33,6 +33,6 @@ Here are the first 5 sample uses the word:
 
 ***
 
-**File version:** `1 (2023, Tuesday, January 17th at 12:22 pm PST)`
+**File version:** `2 (2023, Tuesday, January 17th at 12:24 pm PST)`
 
 ***
